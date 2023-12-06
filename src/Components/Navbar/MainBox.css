@@ -1,0 +1,233 @@
+/* Container styles */
+.container {
+    margin: 0 auto;
+    padding: 30px;
+    box-shadow: 1px 2px 1px 2px rgb(209, 209, 209);
+    background-color:#164863;
+
+}
+  
+  /* Heading styles */
+h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 20px;
+    color:#DDF2FD;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.aboutMe h1{
+  color:#164863;
+}
+h3{
+  color:#DDF2FD;
+}
+.container .MailBox{
+    padding: 10px 20px;
+    color:#F4F8FD;
+    border: 0;
+    border-radius: 10px;
+    background-color: #9BBEC8;
+    margin-bottom: 15px;
+    transform: scale(1);
+}
+.container .MailBox:hover{
+    background-color: rgb(162, 222, 190);
+}
+.container .MailBox a{
+    color:#F4F8FD;
+    text-decoration: none;
+    font-size: 20px;
+}
+.container .MailBox:focus{
+    transform: scale(1.1);
+}
+.container .MailBox:hover a{
+    color: #333;
+}
+  /* Description styles */
+  .description {
+    font-size: 1.1rem;
+    
+    line-height: 1.6;
+    text-align: justify;
+    color: #DDF2FD;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  /* Highlighted text */
+  .highlight {
+    font-weight: bold;
+    color: #007bff; /* Highlight color */
+  }
+  .education {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .education ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .education li {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .title {
+    font-weight: bold;
+    font-size: 18px;
+    width: 30%;
+    color: #164863;
+  }
+  
+  .data {
+    width: 70%;
+    font-size: 18px;
+    color:#427D9D;
+  }
+  
+  .data div {
+    margin-bottom: 5px;
+  }
+
+  .personal-info {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .personal-info ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .personal-info li {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .title {
+    font-weight: bold;
+    width: 40%;
+    text-align: left;
+  }
+  
+  .data {
+    width: 50%;
+    text-align: right;
+  }
+  /* SkillsShowcase.css */
+
+/* Container styles */
+.skills-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  overflow: hidden;
+
+  /* Add background color or image */
+}
+
+/* Individual skill section styles */
+.skill-section {
+  width: 100%;
+  overflow: hidden;
+  margin-bottom: 30px;
+  padding: 50px;
+  color: #164863;
+  background-color: #DDF2FD;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* styles.css */
+
+/* General styles for container */
+.work-experience-container h2{
+  font-size: 50px;
+  color: #427D9D;
+  margin: 15px;
+}
+.experience-details,
+.previous-roles-container {
+  margin-bottom: 20px;
+  width: 90%;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #164863;
+  color: #ffffff;
+}
+ h3{
+  font-size: 28px;
+}
+
+/* Header styles */
+h2 {
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+
+/* Experience details styles */
+.experience-details {
+  line-height: 1.6;
+}
+
+/* List styles */
+.previous-roles-container ul {
+  list-style-type: none;
+  padding: 0;
+  
+}
+
+.previous-roles-container li {
+  margin-bottom: 8px;
+}
+/* AdditionalExperience.css */
+
+.additional-experience-container {
+  margin-bottom: 20px;
+  width: 90%;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #9BBEC8;
+  color: rgb(24, 24, 24);
+}
+
+.additional-experience-container h2 {
+  font-size: 28px;
+  margin-bottom: 15px;
+}
+
+.additional-experience-container ul {
+  list-style: none;
+  padding-left: 20px;
+}
+
+.additional-experience-container ul li {
+  margin-bottom: 8px;
+}
+
+.additional-experience-container ul ul {
+  list-style: disc;
+  margin-left: 20px;
+}
+
+/* Footer styles */
+.footer {
+  width: 100%;
+  padding: 20px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #DDF2FD;
+  color: #164863;
+  font-size: 16px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
