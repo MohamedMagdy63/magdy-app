@@ -6,6 +6,8 @@ const MainBox = () => {
         <div  className="container">
             <h1>Magdy Mohamed Ahmed </h1>
             <h3>Phone : +966566308451 </h3>
+            <br />
+            <h3>E-mail : magdia07@gmail.com"</h3>
             <button className='MailBox'> <a href="mailto:magdia07@gmail.com">Contact via Email</a></button>
             <div className='description'>
             Dedicated to forging strategic alliances with progressive organizations committed to driving growth and innovation. Eager to leverage 27 years of unwavering commitment and expertise in overseeing and executing diverse Finishing construction projects within K.S.A. Demonstrated proficiency in navigating complex design criteria, spearheading field execution, and excelling in comprehensive project supervision and estimation.
