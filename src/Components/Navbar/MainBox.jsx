@@ -25,7 +25,7 @@ const MainBox = () => {
                 <span class="title">High Diploma:</span>
                 <span class="data">
                     <div>High Technical Institute</div>
-                    <div>From  Mataria,Graduation Project Helwan Hospital</div>
+                    <div>From  Mataria</div>
                     <div> Graduation Project Helwan Hospital</div>
                     <div>At year 1990</div>
                     <div>With grade Excellent (90%)</div>
