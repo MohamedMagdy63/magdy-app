@@ -8,7 +8,7 @@ const MainBox = () => {
             <h3>Phone : +966566308451 </h3>
             <button className='MailBox'> <a href="mailto:magdia07@gmail.com">Contact via Email</a></button>
             <div className='description'>
-            Dedicated to forging strategic alliances with progressive organizations committed to driving growth and innovation. Eager to leverage 27 years of unwavering commitment and expertise in overseeing and executing diverse civil construction projects within K.S.A. Demonstrated proficiency in navigating complex design criteria, spearheading field execution, and excelling in comprehensive project supervision and estimation.
+            Dedicated to forging strategic alliances with progressive organizations committed to driving growth and innovation. Eager to leverage 27 years of unwavering commitment and expertise in overseeing and executing diverse Finishing construction projects within K.S.A. Demonstrated proficiency in navigating complex design criteria, spearheading field execution, and excelling in comprehensive project supervision and estimation.
             <br /><br />
             Equipped with a comprehensive skill set encompassing meticulous preparation of crucial documents such as Bill of Quantities and Scope work. Profoundly adept in orchestrating seamless internal and external herds capping initiatives, orchestrating intricate façade cladding projects, and overseeing the meticulous execution of external texture paint work.
             <br /><br />
@@ -101,7 +101,7 @@ const MainBox = () => {
                     </p>
                 </div>
             <div className="experience-details">
-                <h3>Senior Civil Supervisor</h3>
+                <h3>Senior Finishing Supervisor</h3>
                 <p>
                 <strong>Company:</strong> Absul Puul Contracting
                 <br />
@@ -122,7 +122,7 @@ const MainBox = () => {
                 </p>
             </div>
             <div className="experience-details">
-                <h3>Senior Civil Supervisor</h3>
+                <h3>Senior Finishing Supervisor</h3>
                 <p>
                 <strong>Company:</strong> Absal Paul Contracting
                 <br />
@@ -140,11 +140,11 @@ const MainBox = () => {
                 </p>
             </div>
             <div className="experience-details">
-                <h3>Senior Civil Supervisor</h3>
+                <h3>Senior Finishing Supervisor</h3>
                 <p>
                 <strong>Company:</strong> Al-lati w Tmdiuo & Contracting
                 <br />
-                <strong>Job Title:</strong> Senior Civil Supervisor
+                <strong>Job Title:</strong> Senior Finishing Supervisor
                 <br />
                 <strong>Project:</strong> King Abdul-Aziz Center for National Dialogue
                 <br />
@@ -158,11 +158,11 @@ const MainBox = () => {
                 </p>
             </div>
             <div className="experience-details">
-                <h3>Senior Civil Supervisor</h3>
+                <h3>Senior Finishing Supervisor</h3>
                 <p>
                 <strong>Company:</strong> Al-lati w Tmdiuo & Contracting
                 <br />
-                <strong>Job Title:</strong> Senior Civil Supervisor
+                <strong>Job Title:</strong> Senior Finishing Supervisor
                 <br />
                 <strong>Project:</strong> Construction of Riyadh Hilton Hotel & Residence
                 <br />
