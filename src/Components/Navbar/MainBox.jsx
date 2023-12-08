@@ -5,7 +5,7 @@ const MainBox = () => {
         <>
         <div  className="container">
             <h1>Magdi Mohamed Ahmed </h1>
-            <h3>Phone : +966566308451 </h3>
+            <h3>Phone: +966566308451 </h3>
             <h3>E-mail : magdia07@gmail.com</h3>
             <button className='MailBox'> <a href="mailto:magdia07@gmail.com">Contact via Email</a></button>
             <div className='description'>
